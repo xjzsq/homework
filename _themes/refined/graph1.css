@@ -1,0 +1,65 @@
+.mstheme{
+nav-banner-image:url(arefbanr.gif);
+separator-image:url(arefrule.gif);
+list-image-1:url(arefbul1.gif);
+list-image-2:url(arefbul2.gif);
+list-image-3:url(arefbul3.gif);
+navbutton-horiz-pushed:url(arefhsel.gif);
+navbutton-horiz-normal:url(arefhbtn.gif);
+navbutton-horiz-hovered:url(arefhhov.gif);
+navbutton-vert-pushed:url(arefvsel.gif);
+navbutton-vert-normal:url(arefvbtn.gif);
+navbutton-vert-hovered:url(arefvhov.gif);
+navbutton-home-normal:url(arefhom.gif);
+navbutton-home-hovered:url(arefhomh.gif);
+navbutton-up-normal:url(arefup.gif);
+navbutton-up-hovered:url(arefuph.gif);
+navbutton-prev-normal:url(arefbck.gif);
+navbutton-prev-hovered:url(arefbckh.gif);
+navbutton-next-normal:url(arefnxt.gif);
+navbutton-next-hovered:url(arefnxth.gif);
+}
+UL{
+list-style-image:url(arefbul1.gif);
+}
+UL UL{
+list-style-image:url(arefbul2.gif);
+}
+UL UL UL{
+list-style-image:url(arefbul3.gif);
+}
+.mstheme-bannertxt{
+font-family:times new roman,Times New Roman,Times;
+font-size:5;
+color:#FFFFFF;
+}
+.mstheme-horiz-navtxt{
+font-family:times new roman,times;
+font-size:2;
+color:#FFFFFF;
+}
+.mstheme-vert-navtxt{
+font-family:times new roman,times;
+font-size:2;
+color:#FFFFFF;
+}
+.mstheme-navtxthome{
+font-family:times new roman,times;
+font-size:1;
+color:#FFFFFF;
+}
+.mstheme-navtxtup{
+font-family:times new roman,times;
+font-size:1;
+color:#FFFFFF;
+}
+.mstheme-navtxtprev{
+font-family:times new roman,times;
+font-size:1;
+color:#FFFFFF;
+}
+.mstheme-navtxtnext{
+font-family:times new roman,times;
+font-size:1;
+color:#FFFFFF;
+}
